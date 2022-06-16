@@ -1,0 +1,159 @@
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe.config
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmYeniMusteri.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAdminGiris.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAnaForm.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmOdalar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMusteriler.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGelirGider.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmStoklar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.ResolveComReference.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmRadyoDinle.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGazeteler.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmSifreGuncelleme.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMesajlar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe.config
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.ResolveComReference.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAdminGiris.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAnaForm.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGazeteler.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGelirGider.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMesajlar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMusteriler.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmOdalar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmRadyoDinle.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmSifreGuncelleme.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmStoklar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmYeniMusteri.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe.config
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.ResolveComReference.cache
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAdminGiris.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAnaForm.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGazeteler.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGelirGider.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMesajlar.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMusteriler.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmOdalar.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmRadyoDinle.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmSifreGuncelleme.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmStoklar.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmYeniMusteri.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\DeLL\Downloads\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe.config
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.ResolveComReference.cache
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAdminGiris.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAnaForm.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGazeteler.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGelirGider.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMesajlar.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMusteriler.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmOdalar.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmRadyoDinle.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmSifreGuncelleme.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmStoklar.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmYeniMusteri.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\DeLL\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe.config
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.ResolveComReference.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAdminGiris.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAnaForm.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGazeteler.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGelirGider.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMesajlar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMusteriler.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmOdalar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmRadyoDinle.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmSifreGuncelleme.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmStoklar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmYeniMusteri.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon (Yenilenmiş)\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe.config
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.ResolveComReference.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAdminGiris.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmAnaForm.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGazeteler.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmGelirGider.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMesajlar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmMusteriler.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmOdalar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmRadyoDinle.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmSifreGuncelleme.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmStoklar.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.FrmYeniMusteri.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
+C:\Users\Efe\Desktop\Ay Çiçeği Pansiyon\Ay Çiçeği Pansiyon Uygulaması - Kopya\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.SuggestedBindingRedirects.cache
+D:\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\bin\Debug\Ay Çiçeği Pansiyon Uygulaması.exe.config
+D:\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Interop.WMPLib.dll
+D:\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+D:\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.csproj.ResolveComReference.cache
+D:\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.exe
+D:\Ay Çiçeği Pansiyon Uygulaması\Ay Çiçeği Pansiyon Uygulaması\obj\Debug\Ay Çiçeği Pansiyon Uygulaması.pdb
